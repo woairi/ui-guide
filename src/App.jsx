@@ -605,7 +605,7 @@ const App = () => {
       <div className="w-full md:w-80 bg-gray-50 border-r border-gray-200 flex flex-col shrink-0 h-screen overflow-hidden">
         <div className="p-6 pb-2 shrink-0">
           <h1 className="text-xl font-bold mb-1 text-gray-900">UI Style Gallery</h1>
-          <p className="text-xs text-gray-500">지형근님을 위한 UI 컬렉션</p>
+          <p className="text-xs text-gray-500">당신을 위한 UI 컬렉션</p>
         </div>
 
         <div className="flex-1 overflow-y-auto px-4 pb-6 space-y-1">
