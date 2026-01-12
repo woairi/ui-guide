@@ -2,6 +2,11 @@
 
 다양한 UI 디자인 스타일을 한눈에 비교하고 학습할 수 있는 인터랙티브 갤러리입니다.
 
+## 🌐 Live Demo
+
+- **GitHub Pages:** https://woairi.github.io/ui-guide/
+- **Cloudflare Pages:** https://ui-guide.pages.dev/
+
 ## 포함된 UI 스타일
 
 1. **Fluent Design** - Microsoft의 아크릴 효과와 깊이감
